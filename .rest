@@ -1,0 +1,27 @@
+#LOCALHOST
+GET http://localhost:8080/contacts HTTP/1.1
+
+### 
+GET http://localhost:8080/contacts/65b2c4ac56b5c02494cbf264 
+
+###
+GET http://localhost:8080/contacts/65b2c61a2dae6b37443893b7
+
+###
+GET http://localhost:8080/contacts/65b2c62e2dae6b37443893b9
+
+
+Render deployment
+
+###
+GET https://lesson2-cse341winter2024.onrender.com/contacts
+
+### 
+GET https://lesson2-cse341winter2024.onrender.com/contacts/65b2c4ac56b5c02494cbf264 
+
+
+###
+GET https://lesson2-cse341winter2024.onrender.com/contacts/65b2c61a2dae6b37443893b7
+
+###
+GET  https://lesson2-cse341winter2024.onrender.com/contacts/65b2c62e2dae6b37443893b9

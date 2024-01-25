@@ -1,0 +1,31 @@
+{
+    "contact": {
+      "firstName": "Elie",
+      "lastName": "Mambou",
+      "email":  "cormambou@gmail.com",
+      "favoriteColor": "Purple",
+      "birthday":  "12/01/1987"
+    },
+    "contact2": {
+      "firstName": "Michelle",
+      "lastName": "Mambou",
+      "email": "michelmambou@gmail.com",
+      "favoriteColor": "Red",
+      "birthday": "12/10/1981"
+    },
+    "contact3": {
+        "firstName": "Firmin",
+        "lastName": "Mambou",
+        "email":  "firminambou@gmail.com",
+        "favoriteColor": "Yellow",
+        "birthday":   "12/10/1979"
+    },
+    "contact4": {
+      "firstName": "Charles",
+      "lastName": "Idiota",
+      "email": "carlosnaslo@gmail.com",
+      "favoriteColor": "Red",
+      "birthday": "12/11/1971"
+    }
+  }
+  
